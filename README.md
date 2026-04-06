@@ -1,2 +1,2 @@
-# implementing-papers-from-scratch
+#from-scratch-implementations
 wtv lol
